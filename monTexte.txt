@@ -1,0 +1,1 @@
+L'image docker est correctement lancée ! 
